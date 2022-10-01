@@ -20,7 +20,7 @@
 ---
  <div id="header" align="left">
 
-### :men_technologist: Sobre mí :
+### :man_technologist: Sobre mí :
 
 
 Apasionado de la tecnología y disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
