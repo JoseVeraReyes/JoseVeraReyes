@@ -23,15 +23,15 @@
 ### :man_technologist: Sobre mí :
 
 
-Apasionado de la tecnología y disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Apasionado de la tecnología y disfrutando de una transición laboral al Data Analytics.
    
-* 🔭 Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:  
+* Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:  
 
-* 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft. 
+* Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y R, sin dejar de lado las increíbles herramientas de Microsoft. 
 
-* ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
+* Me encanta descubrir nuevas formas de automatizar mi trabajo 
 
-* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-joseverareyes-blue?style=flat&logo=Linkedin&logoColor=white)](https://ec.linkedin.com/in/joseverareyes)
+* ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-joseverareyes-blue?style=flat&logo=Linkedin&logoColor=white)](https://ec.linkedin.com/in/joseverareyes)
    
 
 
@@ -56,8 +56,4 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVeraReyes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
- 
 #
