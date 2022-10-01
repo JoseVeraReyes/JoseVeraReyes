@@ -52,8 +52,9 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
   
  ### :fire: Mis estadísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoseVeraReyes&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoseVeraReyes&theme=github-dark-blue&locale=es&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVeraReyes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #
