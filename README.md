@@ -54,7 +54,7 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoseVeraReyes&theme=github-dark-blue&locale=es&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVeraReyes&layout=compact&theme=github_dark&hide_border=true&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVeraReyes&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #
