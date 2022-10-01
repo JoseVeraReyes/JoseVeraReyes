@@ -1,7 +1,6 @@
-
 <div id="header" align="center">
   <img src="./Banner Github.png" width="800"/>
-</div>a
+</div>
 
 <div id="badges" align="center">
   
