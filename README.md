@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./Banner Github.png" width="900"/>
+  <img src="./Banner profile.png" width="900"/>
 </div>
 
 <div id="badges" align="center">
