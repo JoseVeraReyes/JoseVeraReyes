@@ -10,7 +10,7 @@
   
  
  <div id="badges" align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JoseVeraReyes.JoseVeraReyes&color=00cf00" alt=""/>
    
    <h1>
   Hola soy José. ¡Encantado de conocerte! 
@@ -39,9 +39,11 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
    
  ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+    <img src="https://img.shields.io/badge/r-3776AB?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   </a>
-    <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+    <img src="https://img.shields.io/badge/python-6DB33F?style=for-the-badge&logo=python&logoColor=white" alt="sql"/>    
+  </a>
+    <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
   </a>
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
